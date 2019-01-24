@@ -1,6 +1,13 @@
 <resources>
-    <string name="app_name">lab1</string>
-    <string name="hello_message">Hello World!</string>
+    <string name="app_name">lab2</string>
+    <string name="hello_message">Here are my widgets:</string>
     <string name="ButtonText">Button
 </string>
+    <string name="imgbutton">img</string>
+    <string name="s">switch on/off</string>
+    <string name="checkbox">check this out!</string>
+    <string name="edittext">
+Type your answer in here</string>
+
+
 </resources>

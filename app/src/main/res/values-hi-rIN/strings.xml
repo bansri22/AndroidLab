@@ -5,4 +5,12 @@
 <string name="ButtonText">
 बटन
 </string>
+    <string name="imgbutton"> छवि</string>
+
+
+    <string name="s">चालू करना / बंद करना</string>
+    <string name="checkbox">
+इसकी जांच करें!</string>
+    <string name="edittext"></string>
+
 </resources>
